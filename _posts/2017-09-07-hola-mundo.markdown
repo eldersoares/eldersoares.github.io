@@ -7,11 +7,11 @@ header-img: "img/post-bg-02.jpg"
 categories: Mix
 ---
 
-<p>Bienvenidos al blog de labCeroUno, donde estaremos posteando acerca de nuestro trabajo en el "laboratorio de bits".</p>
+<p>En este blog postearemos acerca de nuestro trabajo en el "laboratorio de bits".</p>
 
-<p>Pero al final, qué es labCeroUno? O bien, por qué laboratorio de bits?</p>
+<h2 class="section-heading">¿Qué es labCeroUno? ¿Por qué laboratorio de bits?</h2>
 
-<p>labCeroUno se trata de un proyecto independiente de desarrollo de aplicaciones para terceros y de investigación en nuevas tecnologías de desarrollo. Con esto queremos decir que, además de crear aplicaciones excepcionales para nuestros clientes, tenemos como segunda misión desarrollar ideas que creen un impacto en el mundo del software. El tamaño de este impacto todavía no lo sabemos. Pero las ideas ya están rondando nuestras mentes (y dedos). Para llegar a un proyecto impactante, desde una idea y hacia una aplicación, creemos que es fundamental la experimentación.</p>
+<p><strong>labCeroUno</strong> es un emprendimiento independiente de desarrollo de aplicaciones y de investigación en nuevas tecnologías de desarrollo. Con esto queremos decir que, además de crear aplicaciones excepcionales para nuestros clientes, tenemos como segunda misión desarrollar ideas que creen un impacto en el mundo del software. El tamaño de este impacto todavía no lo sabemos. Pero las ideas ya están rondando nuestras mentes (y dedos). Para llegar a un proyecto impactante, desde una idea y hacia una aplicación, creemos que es fundamental la experimentación.</p>
 
 <h2 class="section-heading">Palabras mágicas</h2>
 
