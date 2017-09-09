@@ -11,7 +11,7 @@ url: "https://labcerouno.github.io" # the base hostname & protocol for your site
 #data-ad-client: 
 #google_ad_client: 
 
-# google_analytics: 
+google_analytics: "UA-35999912-2"
 disqus_account: labCeroUno
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
