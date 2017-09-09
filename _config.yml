@@ -7,11 +7,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization lea
 url: "https://labcerouno.github.io" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 
-data-ad-client: 
-google_ad_client: 
+#data-ad-slot: 
+#data-ad-client: 
+#google_ad_client: 
 
-google_analytics: 
+# google_analytics: 
 disqus_account: labCeroUno
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io

@@ -7,20 +7,7 @@ header-img: "img/post-bg-01.jpg"
 <div class="container-fluid index">
   <div class="row index all-posts">
 
-    <h1 class="header author-header">{{ site.author_name }}</h1>
-    <h2 class="header" itemprop="headline">Todos los posts</h2>
-    <h2 class="header categories" itemprop="headline"><small>agrupado por
-
-      <div class="dropdown btn-group">
-        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">A&ntilde;os
-          <span class="caret"></span>
-        </button>
-        <ul class="dropdown-menu">
-          <li><a href="{{ site.baseurl }}/posts-by-categories/">Categor&iacute;as</a></li>
-        </ul>
-      </div>
-
-    </small></h2>
+    <h1 class="header author-header">{{ site.author_name }}</h1>    
 
       {% for post in site.posts %}
       {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
