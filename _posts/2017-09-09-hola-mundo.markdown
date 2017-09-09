@@ -9,8 +9,6 @@ categories: Mix
 
 <h3 align="center">En este blog postearemos acerca de nuestro trabajo en el "laboratorio de bits".</h3>
 
-<h2 class="section-heading">¿Qué es labCeroUno? ¿Por qué laboratorio de bits?</h2>
-
 <p><strong>labCeroUno</strong> es un emprendimiento independiente de desarrollo de aplicaciones y de investigación en nuevas tecnologías de desarrollo. Nuestra misión es crear aplicaciones excepcionales para nuestros clientes y desarrollar ideas que creen  impacto en el mundo del software. Para lograrlo, creemos que es fundamental la experimentación.</p>
 
 <h2 class="section-heading">Palabras mágicas</h2>
