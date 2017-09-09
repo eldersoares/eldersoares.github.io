@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "¡Hola mundo! Bienvenidos al blog de labCeroUno"
-date:       2017-09-09 19:37:00
+date:       2017-09-09 00:37:00
 author:     "labCeroUno"
 header-img: "img/post-bg-02.jpg"
 categories: Mix
