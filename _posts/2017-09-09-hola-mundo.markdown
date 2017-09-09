@@ -29,6 +29,5 @@ categories: Mix
 <p>1) desarrollar las aplicaciones que nuestros clientes desean; 2) experimentar cosas nuevas en el ámbito de las aplicaciones. Creemos que esto nos llevará al objetivo de crear impacto a través de dos cositas (bits, en inglés) tan sencillas como el cero y el uno.</p>
 
 <img src="{{ site.baseurl }}/img/post-bg-04.jpg" class="img-responsive" alt="¡Hacia lo desconocido!">
-<span class="caption text-muted">Conocer lugares y hacer cosas nunca hechas - de esto se trata vivir.</span>
 
 <p>¡A programar y a experimentar!</p>
